@@ -2,7 +2,7 @@
 using MelonLoader;
 using UnityEngine;
 
-[assembly: MelonInfo(typeof(DisableLoadingMusic.Main), "DisableLoadingMusic", "1.1", "Boppr")]
+[assembly: MelonInfo(typeof(DisableLoadingMusic.Main), "DisableLoadingMusic", "1.2", "Boppr")]
 [assembly: MelonGame("VRChat", "VRChat")]
 
 namespace DisableLoadingMusic
